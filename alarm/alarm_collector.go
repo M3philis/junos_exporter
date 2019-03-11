@@ -3,8 +3,8 @@ package alarm
 import (
 	"regexp"
 
-	"github.com/M3philis/junos_exporter/collector"
-	"github.com/M3philis/junos_exporter/rpc"
+	"github.com/m3philis/junos_exporter/collector"
+	"github.com/m3philis/junos_exporter/rpc"
 	"github.com/prometheus/client_golang/prometheus"
 )
 
